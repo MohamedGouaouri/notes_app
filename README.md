@@ -1,2 +1,2 @@
 # notes_app
-A note taking made with Jquery
+A note-taking app made with Jquery
